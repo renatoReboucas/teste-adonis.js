@@ -22,10 +22,10 @@ adonis make:model nome_model
 ```
 <br/>
 
-### Create model and migration
+### Create model, controller and migration
 
 ```shell
-adonis make:model nome --migration
+adonis make:model nome -m -c
 ```
 <br/>
 
