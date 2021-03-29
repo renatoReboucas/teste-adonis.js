@@ -11,7 +11,7 @@ adonis make:migration nome_migration
 ### Migration rund
 
 ```shell
-adonis migration: run
+adonis migration:run
 ```
 <br/>
 
